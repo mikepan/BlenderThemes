@@ -6,11 +6,11 @@ A collection of themes I've made for Blender
 OSX:
 ![Screenshot](OSX/media/Screen Shot.png)
 
-![Screenshot 2](OSX/media/Screen Shot2.png)
+![Screenshot 2](OSX/media/Screen Shot 2.png)
 
-![Screenshot 3](OSX/media/Screen Shot3.png)
+![Screenshot 3](OSX/media/Screen Shot 3.png)
 
-![Screenshot 1](OSX/media/Screen Shot1.png)
+![Screenshot 1](OSX/media/Screen Shot 1.png)
 
 
 #### To use the themes:
