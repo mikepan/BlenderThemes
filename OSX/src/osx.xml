@@ -4,14 +4,14 @@
       <ThemeUserInterface menu_shadow_fac="0.5"
                           menu_shadow_width="12"
                           icon_file=""
-                          icon_alpha="0.7"
+                          icon_alpha="0.8"
                           axis_x="#dc4242"
                           axis_y="#47b347"
                           axis_z="#4264dc">
         <wcol_regular>
           <ThemeWidgetColors outline="#808080"
-                             inner="#e6e6e680"
-                             inner_sel="#666666cc"
+                             inner="#ffffff4d"
+                             inner_sel="#4d4d4d66"
                              item="#1a1a1aff"
                              text="#333333"
                              text_sel="#ffffff"
@@ -23,7 +23,7 @@
         <wcol_tool>
           <ThemeWidgetColors outline="#808080"
                              inner="#e6e6e680"
-                             inner_sel="#666666cc"
+                             inner_sel="#4d4d4d66"
                              item="#000000ff"
                              text="#333333"
                              text_sel="#ffffff"
@@ -34,8 +34,8 @@
         </wcol_tool>
         <wcol_radio>
           <ThemeWidgetColors outline="#808080"
-                             inner="#ffffff80"
-                             inner_sel="#666666ba"
+                             inner="#ffffff4d"
+                             inner_sel="#4d4d4d66"
                              item="#1a1a1aff"
                              text="#333333"
                              text_sel="#ffffff"
@@ -70,7 +70,7 @@
         </wcol_option>
         <wcol_toggle>
           <ThemeWidgetColors outline="#808080"
-                             inner="#ffffff80"
+                             inner="#ffffff4d"
                              inner_sel="#3333334d"
                              item="#191919ff"
                              text="#333333"
@@ -106,7 +106,7 @@
         </wcol_numslider>
         <wcol_box>
           <ThemeWidgetColors outline="#808080"
-                             inner="#ffffff80"
+                             inner="#e6e6e6e6"
                              inner_sel="#4d4d4dff"
                              item="#000000ff"
                              text="#000000"
@@ -237,7 +237,7 @@
       </ThemeUserInterface>
     </user_interface>
     <view_3d>
-      <ThemeView3D grid="#4b5154"
+      <ThemeView3D grid="#53555f"
                    wire="#000000"
                    wire_edit="#000000"
                    lamp="#00000028"
@@ -301,7 +301,7 @@
           <ThemeSpaceGradient title="#000000"
                               text="#000000"
                               text_hi="#ffffff"
-                              header="#878b90"
+                              header="#7f8287"
                               header_text="#1a1a1a"
                               header_text_hi="#ffffff"
                               button="#ced3d9e6"
@@ -313,9 +313,9 @@
                               tab_back="#ced3d900"
                               tab_outline="#dbe0e7">
             <gradients>
-              <ThemeGradientColors show_grad="FALSE"
-                                   gradient="#6d7173"
-                                   high_gradient="#454a4d">
+              <ThemeGradientColors show_grad="TRUE"
+                                   gradient="#7f8287"
+                                   high_gradient="#6a6f76">
               </ThemeGradientColors>
             </gradients>
             <panelcolors>
@@ -604,7 +604,7 @@
       </ThemeImageEditor>
     </image_editor>
     <sequence_editor>
-      <ThemeSequenceEditor grid="#777777"
+      <ThemeSequenceEditor grid="#494949"
                            window_sliders="#7c7c7c"
                            movie_strip="#82a9d9"
                            movieclip_strip="#20208f"
@@ -775,7 +775,7 @@
                              header="#999999"
                              header_text="#000000"
                              header_text_hi="#ffffff"
-                             button="#ced3d9e6"
+                             button="#bcc3cce6"
                              button_title="#666666"
                              button_text="#333333"
                              button_text_hi="#ffffff"
@@ -970,7 +970,7 @@
                        locked_marker="#7f7f7f"
                        path_before="#ff0000"
                        path_after="#0000ff"
-                       grid="#5e5e5e"
+                       grid="#bbbbbb"
                        frame_current="#60c040"
                        strips="#0c0a0a"
                        strips_selected="#ff8c00"
