@@ -154,14 +154,14 @@
         </wcol_menu_back>
         <wcol_pie_menu>
           <ThemeWidgetColors outline="#808080"
-                             inner="#191919e6"
-                             inner_sel="#8c8c8cff"
-                             item="#2d2d2de6"
+                             inner="#cccccc99"
+                             inner_sel="#ffffffcc"
+                             item="#ffffffcc"
                              text="#333333"
-                             text_sel="#ffffff"
-                             show_shaded="FALSE"
-                             shadetop="10"
-                             shadedown="-10">
+                             text_sel="#000000"
+                             show_shaded="TRUE"
+                             shadetop="0"
+                             shadedown="-30">
           </ThemeWidgetColors>
         </wcol_pie_menu>
         <wcol_tooltip>
