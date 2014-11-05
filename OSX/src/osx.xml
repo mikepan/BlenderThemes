@@ -453,7 +453,7 @@
                              title="#000000"
                              text="#646464"
                              text_hi="#ffffff"
-                             header="#e6e6e6"
+                             header="#d9d9d9"
                              header_text="#000000"
                              header_text_hi="#ffffff"
                              button="#ced3d9e6"
@@ -474,10 +474,10 @@
           </ThemeSpaceGeneric>
         </space>
         <space_list>
-          <ThemeSpaceListGeneric list="#797c80"
+          <ThemeSpaceListGeneric list="#e3e3e3"
                                  list_title="#000000"
-                                 list_text="#000000"
-                                 list_text_hi="#ffffff">
+                                 list_text="#333333"
+                                 list_text_hi="#8b4800">
           </ThemeSpaceListGeneric>
         </space_list>
       </ThemeNLAEditor>
