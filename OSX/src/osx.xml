@@ -340,7 +340,7 @@
                         active_channels_group="#87b17d"
                         vertex="#000000"
                         vertex_select="#ff8500"
-                        vertex_size="3"
+                        vertex_size="4"
                         vertex_unreferenced="#000000"
                         handle_free="#000000"
                         handle_auto="#909000"
@@ -382,10 +382,10 @@
           </ThemeSpaceGeneric>
         </space>
         <space_list>
-          <ThemeSpaceListGeneric list="#666666"
+          <ThemeSpaceListGeneric list="#393d40"
                                  list_title="#000000"
-                                 list_text="#000000"
-                                 list_text_hi="#ffffff">
+                                 list_text="#262626"
+                                 list_text_hi="#000000">
           </ThemeSpaceListGeneric>
         </space_list>
       </ThemeGraphEditor>
@@ -474,10 +474,10 @@
           </ThemeSpaceGeneric>
         </space>
         <space_list>
-          <ThemeSpaceListGeneric list="#e3e3e3"
+          <ThemeSpaceListGeneric list="#393d40"
                                  list_title="#000000"
-                                 list_text="#333333"
-                                 list_text_hi="#8b4800">
+                                 list_text="#262626"
+                                 list_text_hi="#ffffff">
           </ThemeSpaceListGeneric>
         </space_list>
       </ThemeNLAEditor>
@@ -532,9 +532,9 @@
           </ThemeSpaceGeneric>
         </space>
         <space_list>
-          <ThemeSpaceListGeneric list="#3d3d3d"
+          <ThemeSpaceListGeneric list="#393d40"
                                  list_title="#000000"
-                                 list_text="#000000"
+                                 list_text="#262626"
                                  list_text_hi="#ffffff">
           </ThemeSpaceListGeneric>
         </space_list>
