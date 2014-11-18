@@ -1,7 +1,7 @@
-###BlenderThemes
+###BlenderThemes: A collection of themes for Blender
 =============
 
-A collection of themes I've made for Blender
+
 
 OSX:
 ![Screenshot](OSX/media/Screen Shot.png)
