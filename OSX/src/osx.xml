@@ -142,7 +142,7 @@
         </wcol_pulldown>
         <wcol_menu_back>
           <ThemeWidgetColors outline="#808080"
-                             inner="#f2f2f2f2"
+                             inner="#e6e6e6e6"
                              inner_sel="#ffffff80"
                              item="#4d4d4dff"
                              text="#333333"
@@ -153,10 +153,10 @@
           </ThemeWidgetColors>
         </wcol_menu_back>
         <wcol_pie_menu>
-          <ThemeWidgetColors outline="#808080"
-                             inner="#cccccc99"
-                             inner_sel="#ffffffcc"
-                             item="#ffffffcc"
+          <ThemeWidgetColors outline="#6a6a6a"
+                             inner="#cccccccc"
+                             inner_sel="#ffffffe6"
+                             item="#ffffffe6"
                              text="#333333"
                              text_sel="#000000"
                              show_shaded="TRUE"
