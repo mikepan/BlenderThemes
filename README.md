@@ -18,3 +18,8 @@ OSX:
 2. In Blender, go to **File** > **User Preferences** > **Themes**
 3. Click on **Install Theme** at the bottom and browse for the xml file.
 4. Enjoy!
+
+#### Design Guidelines:
+1. Mimics OS X look and established colors for easy adoption.
+2. Avoid use of pure white to avoid eye strain.
+3. Neutral, low contrast UI that puts content first.
