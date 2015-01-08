@@ -1,9 +1,15 @@
 ###BlenderThemes: A collection of themes for Blender
 =============
 
+Modern:
+A faithful theme that give the default Blender a more clean look.
+
+![Screenshot](Modern/media/1.png)
 
 
 OSX:
+A soft theme that mimics how Mac OS X look without using any pure white.
+
 ![Screenshot](OSX/media/Screen Shot.png)
 
 ![Screenshot 2](OSX/media/Screen Shot 2.png)
@@ -18,8 +24,3 @@ OSX:
 2. In Blender, go to **File** > **User Preferences** > **Themes**
 3. Click on **Install Theme** at the bottom and browse for the xml file.
 4. Enjoy!
-
-#### Design Guidelines:
-1. Mimics OS X look and established colors for easy adoption.
-2. Avoid use of pure white to avoid eye strain.
-3. Neutral, low contrast UI that puts content first.
