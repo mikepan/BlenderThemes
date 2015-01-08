@@ -1,14 +1,14 @@
-###BlenderThemes: A collection of themes for Blender
+###A collection of themes for Blender
 =============
 
-Modern:
-A faithful theme that give the default Blender a more clean look.
+**Modern:**
+A faithful theme that gives the default Blender a more clean look.
 
 ![Screenshot](Modern/media/1.png)
 
 
-OSX:
-A soft theme that mimics how Mac OS X look without using any pure white.
+**OSX:**
+A soft theme that mimics how Mac OS X looks without using pure white.
 
 ![Screenshot](OSX/media/Screen Shot.png)
 
