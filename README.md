@@ -2,13 +2,13 @@
 =============
 
 **Modern:**
-A faithful theme that gives the default Blender a more clean look.
+A faithful theme that gives the default Blender a cleaner look.
 
 ![Screenshot](Modern/media/1.png)
 
 
 **OSX:**
-A soft theme that mimics how Mac OS X looks without using pure white.
+A soft theme that mimics how Mac OS X looks.
 
 ![Screenshot](OSX/media/Screen Shot.png)
 
