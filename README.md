@@ -4,7 +4,7 @@
 **Modern:**
 A faithful theme that gives the default Blender a cleaner look.
 
-![Screenshot](https://raw.github.com/mikepan/BlenderThemes/master/modern/media/Screen%20Shot%201.png)
+![Screenshot](https://raw.github.com/mikepan/BlenderThemes/master/Modern/media/1.png)
 
 
 **OSX:**
