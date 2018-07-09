@@ -1,22 +1,22 @@
-###A collection of themes for Blender
+### A collection of themes for Blender
 =============
 
 **Modern:**
 A faithful theme that gives the default Blender a cleaner look.
 
-![Screenshot](Modern/media/1.png)
+![Screenshot](/Modern/media/1.png)
 
 
 **OSX:**
 A soft theme that mimics how Mac OS X looks.
 
-![Screenshot](OSX/media/Screen Shot.png)
+![Screenshot](/OSX/media/Screen Shot.png)
 
-![Screenshot 2](OSX/media/Screen Shot 2.png)
+![Screenshot2](/OSX/media/Screen Shot 2.png)
 
-![Screenshot 3](OSX/media/Screen Shot 3.png)
+![Screenshot3](/OSX/media/Screen Shot 3.png)
 
-![Screenshot 1](OSX/media/Screen Shot 1.png)
+![Screenshot1](/OSX/media/Screen Shot 1.png)
 
 
 #### To use the themes:
