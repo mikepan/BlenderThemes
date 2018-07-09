@@ -10,7 +10,7 @@ A faithful theme that gives the default Blender a cleaner look.
 **OSX:**
 A soft theme that mimics how Mac OS X looks.
 
-![Screenshot](/OSX/media/Screen Shot.png)
+![Screenshot](/BlenderThemes/OSX/media/Screen Shot 1.png)
 
 ![Screenshot2](/OSX/media/Screen Shot 2.png)
 
